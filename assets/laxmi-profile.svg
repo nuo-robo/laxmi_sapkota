@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="420" viewBox="0 0 420 420">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#1d4ed8"/><stop offset="1" stop-color="#14b8a6"/></linearGradient>
+    <linearGradient id="coat" x1="0" x2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#dbeafe"/></linearGradient>
+  </defs>
+  <rect width="420" height="420" rx="210" fill="url(#bg)"/>
+  <circle cx="210" cy="128" r="68" fill="#f8d8c5"/>
+  <path d="M144 122c15-62 119-63 133 3-34-18-86-18-133-3z" fill="#263238"/>
+  <circle cx="185" cy="132" r="6" fill="#1f2937"/><circle cx="235" cy="132" r="6" fill="#1f2937"/>
+  <path d="M184 164c18 18 43 18 60 0" fill="none" stroke="#7c2d12" stroke-width="7" stroke-linecap="round"/>
+  <path d="M82 374c18-98 68-147 128-147s110 49 128 147" fill="url(#coat)"/>
+  <path d="M149 239l61 83 61-83" fill="none" stroke="#0f766e" stroke-width="10" stroke-linejoin="round"/>
+  <circle cx="306" cy="310" r="22" fill="#ef4444"/><path d="M306 297v26M293 310h26" stroke="#fff" stroke-width="8" stroke-linecap="round"/>
+  <text x="210" y="394" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#fff">LAXMI</text>
+</svg>
