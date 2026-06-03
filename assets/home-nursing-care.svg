@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#eff6ff"/><stop offset="1" stop-color="#d1fae5"/></linearGradient>
+    <linearGradient id="card" x1="0" x2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#e0f2fe"/></linearGradient>
+  </defs>
+  <rect width="720" height="460" fill="url(#bg)"/>
+  <rect x="70" y="82" width="580" height="298" rx="28" fill="url(#card)" stroke="#bfdbfe" stroke-width="4"/>
+  <circle cx="245" cy="187" r="56" fill="#f5c7ad"/>
+  <path d="M190 185c8-67 103-72 113 0-33-19-75-19-113 0z" fill="#334155"/>
+  <path d="M164 345c14-75 46-112 82-112s69 37 83 112" fill="#2563eb"/>
+  <circle cx="476" cy="185" r="48" fill="#f8d8c5"/>
+  <path d="M432 181c11-49 81-50 90 1-27-13-57-13-90-1z" fill="#64748b"/>
+  <path d="M405 345c15-70 44-105 73-105s58 35 73 105" fill="#94a3b8"/>
+  <path d="M306 276c46 34 108 34 151 0" fill="none" stroke="#0f766e" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="360" cy="276" r="14" fill="#0f766e"/><circle cx="420" cy="276" r="14" fill="#0f766e"/>
+  <rect x="95" y="104" width="120" height="34" rx="17" fill="#dbeafe"/><text x="155" y="128" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700" fill="#1d4ed8">CARE</text>
+  <text x="360" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#0f172a">Home Nursing Care</text>
+</svg>
