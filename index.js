@@ -1,6 +1,6 @@
 function fetchDataAndUpdate() {
-        const pageCode = './store/pageContent.json'
-        fetch(pageCode)
+        const pageCode = './store/pageContent.json?v=' + Date.now()
+        fetch(pageCode, { cache: 'no-store' })
             .then(response => response.json())
             .then(data => {
                 const bodyContent = data.page;
